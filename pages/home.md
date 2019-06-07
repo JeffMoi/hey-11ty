@@ -1,5 +1,4 @@
 ---
-layout: layouts/home.njk
 title: Home
 date: 2016-01-01T00:00:00.000Z
 permalink: /
@@ -7,14 +6,10 @@ navtitle: Home
 tags:
   - nav
 ---
-# Welcome
+# HEY: Healing Emphasis Yoga Therapy Training Program
 
-This is a template for building a simple blog website with the [Eleventy static site generator](https://www.11ty.io), with deployment to [Netlify](https://www.netlify.com).
+Enter the next dimension of teaching yoga… Healing Emphasis Yoga Therapy (HEY)!
 
-Includes [Netlify CMS](https://www.netlifycms.org) for WYSIWYG content editing, and [Netlify Forms](https://www.netlify.com/docs/form-handling) for processing your site's form data.
+Next start date September 6-8th, 2019!  Yoga for EVERY Body! Restoring the Body Back to Full Function – Part 1, with Donna Martens Overview of a yoga therapy session and practice teaching key techniques to build therapeutic healing relationships and outcomes.  Includes yoga practices for senior clients and those who have experienced injury, chronic dis-ease, joint and range of motion limitation and post-op situations.
 
-For more info on installation and usage, view the [project repo]({{ pkg.repository.url }}) on Github.
-
-Or click the button below to deploy your own copy of this project to Netlify.
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/danurbanowicz/eleventy-netlify-boilerplate&stack=cms)
+To find out more, [CLICK HERE](https://www.innervisionyoga.com/yoga-teacher-training/yoga-therapy-training-program/)
